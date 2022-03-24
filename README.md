@@ -2,12 +2,12 @@
 
 ## Features
 
-0. No JavaScript.
-1. Minimalistic 404 page.
-2. Clean urls (`/page/` instead of `/page.html`).
-3. SEO sitemap.
-4. Use `/commits/master.atom` of source repository for RSS.
-5. `application/git+http` rel tag.
+- No JavaScript.
+- Minimalistic 404 page.
+- Clean urls (`/page/` instead of `/page.html`).
+- SEO sitemap.
+- Use `/commits/master.atom` of source repository for RSS.
+- `application/git+http` rel tag.
 6. Use [Primer] Jekyll theme, which is the default theme for GitHub Pages
 
 [Primer]: https://github.com/pages-themes/primer
