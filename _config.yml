@@ -1,0 +1,16 @@
+plugins:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+
+permalink: /:title/
+
+defaults:
+    -
+        scope:
+            path: ""
+        values:
+            layout: default
+
+url: https://mmap.page
+title: mmap.page
+repo: weakish/micro-gh-page
