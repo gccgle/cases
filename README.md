@@ -1,10 +1,10 @@
-# Micro GitHub Page Template
+# 这些年身入其中或主导的项目
 
-## Features
+### 参与品牌形象重塑与升级
 
-- No JavaScript.
-- Minimalistic 404 page.
-- Clean urls (`/page/` instead of `/page.html`).
+- 明牌珠宝
+- 卡利罗银器
+- 经历万隆珠宝到曼卡龙珠宝
 - SEO sitemap.
 - Use `/commits/master.atom` of source repository for RSS.
 - `application/git+http` rel tag.
@@ -12,11 +12,11 @@
 
 [Primer]: https://github.com/pages-themes/primer
 
-## Use
+### 转型期的品牌策略与基础形象
 
-1. Create a new repository at GitHub based on template [weakish/micro-gh-page].
+1. 西安古丽兰珠宝
 
-2. Edit `_config.yml`, for example:
+2. 万帝珠宝
 
     ```
     url: your-username.github.io
@@ -25,29 +25,29 @@
 
 3. (optional) Add a `favicon.ico` file.
 
-4. (optional) Add a `CNAME` file to use your own domain.
-
-5. (optional) Add `repo: USERNAME/REPO_NAME` in `_config.yml`.
 
 6. Commit changes and push.
 
 [weakish/micro-gh-page]: https://github.com/weakish/micro-gh-page
 
-## Preview
+### 从0到1的项目
 
-Install the requirements:
+德诚珠宝集团之"因美优品"；"00:59临时"
 
-```sh
-bundle install
-```
-
+Key to beauty时尚手串产品品牌”TROII窍“ 
 Preview locally:
 
 ```sh
 bundle exec jekyll serve
 ```
 
-## ZeroNet
+### 产品概念发掘
+
+不是吉娃娃，明牌珠宝之”喆娃娃“系列
+”再不U惑，就不惑了“，古丽兰珠宝之”U惑“
+"Unique U"，独特的你
+”我的自钻“
+
 
 To deploy to [ZeroNet], just add a new config file, e.g. `_zeronet.yml`, to override the `site.url` variable:
 
@@ -72,8 +72,7 @@ You can also sign and publish your site via the zero panel in the browser.
 
 [ZeroNet]: https://zeronet.io/
 
-## Examples
+## 相关站点
 
-- [this site itself](https://mmap.page/micro-gh-page/)
-- [mmap.page](https://mmap.page)
-- [add your site](https://github.com/weakish/micro-gh-page/pulls)
+- [意识碗](https://consciousnessbowl.com/)
+- [读与未读](https://readunread.cn/)
