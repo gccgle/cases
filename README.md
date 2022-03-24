@@ -7,23 +7,24 @@
 - 明牌珠宝。Mingr。
 
 
-[Primer]: https://github.com/pages-themes/primer
-
-### 转型期的品牌策略与基础形象
+### 进入乙方，转型期的品牌策略与基础形象
 
 - 西安古丽兰珠宝
 - 卡利罗银器
-- 万帝珠宝
+- 万帝珠宝。没有内心的坚持，你Hold不住这份光芒，璀璨由心。
 - HMH Jewelry
-- 和合玉器
-- 德诚珠宝
-- 喜阅.翡翠与茶
-- 
-- 吃螃蟹的、国内真正意义上的首家线上钻石商城[9Diamonds]:http://9diamond.com
+- 和合玉器。和合概念诠释，宫商角徵羽的产品线架构。
     ```
-    url: your-username.github.io
-    title: your-site-title
+	“和合象同琴与瑟”、“音律吕兮韵宫商”，诉诸于“音律之和谐”，对品牌原“和合”文化内涵进行重叙，以利于消费者的理解和传播。
+	以华夏古琴为灵感， 对“和合”品牌核心视觉化元素进行创意设计。并在全新的VI、SI设计中得到一致性的表达与体现。
+	参照“宫商角徵羽”，对和合品牌原繁杂无序的产品线进行了系统规划。不同产品线，其对应的寓意、卖点表征清晰明了，如，“宫”代表着和合顶级工艺、非遗大师和宫廷文创概念款；“羽”则意味着多材质轻量配饰款，重设计而弱材质、弱文化属性……此举既利于企业内部进行系统开发规划，亦便于外部营销传播。
     ```
+
+- 德诚珠宝。
+- 喜阅.翡翠与茶，一组关于慢生活的KV示意。
+- 河南豫金刚旗下，培育钻石品牌 Brisa&Relucir波琳克琳
+- 吃螃蟹的、国内真正意义上的首家线上钻石商城 [9Diamonds]: http://9diamond.com
+
 - (optional) Add a `favicon.ico` file.
 
 
@@ -68,7 +69,7 @@ zeronet.py siteSign YOUR_ZERONET_SITE_ADDRESS
 zeronet.py sitePublish YOUR_ZERONET_SITE_ADDRESS
 ```
 
-You can also sign and publish your site via the zero panel in the browser.
+提供了明牌珠宝MINGR，越王珠宝JOVAN，德诚珠宝DIASENN的英文品牌命名。
 
 [ZeroNet]: https://zeronet.io/
 
