@@ -1,41 +1,41 @@
 # 这些年身入其中或主导的项目
 
-### 参与品牌形象重塑与升级
+### 作为甲方的一员，亲历的品牌形象重塑与升级项目
 
-- 明牌珠宝
-- 卡利罗银器
-- 经历万隆珠宝到曼卡龙珠宝
-- SEO sitemap.
-- Use `/commits/master.atom` of source repository for RSS.
-- `application/git+http` rel tag.
-6. Use [Primer] Jekyll theme, which is the default theme for GitHub Pages
+- 莱绅通灵的前身：通灵翠钻。珠宝业蛮荒时代的野蛮人，自导自演，”爱你要有一套“，IMC营销，
+- 经历万隆珠宝到曼卡龙珠宝。大概是业内第一个把产品。
+- 明牌珠宝。Mingr。
+
 
 [Primer]: https://github.com/pages-themes/primer
 
 ### 转型期的品牌策略与基础形象
 
-1. 西安古丽兰珠宝
-
-2. 万帝珠宝
-
+- 西安古丽兰珠宝
+- 卡利罗银器
+- 万帝珠宝
+- HMH Jewelry
+- 和合玉器
+- 德诚珠宝
+- 喜阅.翡翠与茶
+- 
+- 吃螃蟹的、国内真正意义上的首家线上钻石商城[9Diamonds]:http://9diamond.com
     ```
     url: your-username.github.io
     title: your-site-title
     ```
+- (optional) Add a `favicon.ico` file.
 
-3. (optional) Add a `favicon.ico` file.
 
-
-6. Commit changes and push.
+- Commit changes and push.
 
 [weakish/micro-gh-page]: https://github.com/weakish/micro-gh-page
 
 ### 从0到1的项目
 
-德诚珠宝集团之"因美优品"；"00:59临时"
-
-Key to beauty时尚手串产品品牌”TROII窍“ 
-Preview locally:
+- 德诚珠宝集团之"因美优品"；"00:59临时"
+- Key to beauty时尚手串产品品牌”TROII窍“ 
+- Preview locally:
 
 ```sh
 bundle exec jekyll serve
