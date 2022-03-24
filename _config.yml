@@ -11,6 +11,6 @@ defaults:
         values:
             layout: default
 
-url: https://mmap.page
-title: mmap.page
-repo: weakish/micro-gh-page
+url: https://gccgle.github.io/cases/
+title: Cases in ConsciousnessBowl
+repo: gccgle/cases
