@@ -49,10 +49,10 @@ bundle exec jekyll serve
 
 ### 产品概念发掘
 
-不是吉娃娃，明牌珠宝之”喆娃娃“系列
-”再不U惑，就不惑了“，古丽兰珠宝之”U惑“
-"Unique U"，独特的你
-”我的自钻“
+- 不是吉娃娃，明牌珠宝之”喆娃娃“系列
+- ”再不U惑，就不惑了“，古丽兰珠宝之”U惑“
+- "Unique U"，独特的你
+- ”我的自钻“
 
 
 To deploy to [ZeroNet], just add a new config file, e.g. `_zeronet.yml`, to override the `site.url` variable:
